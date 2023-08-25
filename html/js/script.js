@@ -100,7 +100,7 @@ function cancel() {
     clearInterval(animation_loop);
     // addition = (new_degrees - degrees) / 50;
     animation_loop_full = setInterval(animate_to_full, 1);
-    $(".label").text("İPTAL EDİLDİ!");
+    $(".label").text("Cancelled!");
     cancel_timeout = setTimeout(function () {
         clearInterval(animation_loop_full);
         $( ".container" ).animate({
