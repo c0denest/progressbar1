@@ -2,7 +2,7 @@
 
 ### 🤍 Prewiev
 
-[![Discord](https://media.discordapp.net/attachments/1144393265752313906/1144393266029142157/image.png?width=335&height=314)](https://discord.gg/NC3NxVWKxk)
+[![Discord](https://media.discordapp.net/attachments/1144393017885732916/1144393018061897818/image.png?width=329&height=154)](https://discord.gg/NC3NxVWKxk)
 
 <br>
 
