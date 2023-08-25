@@ -1,4 +1,4 @@
-<b>Nopixel Inspired Progressbar (Rectangle)</b>
+<b>Nopixel Inspired Progressbar (Circle)</b>
 
 ### 🤍 Prewiev
 
