@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+html {
+  overflow: hidden;
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  background: transparent !important;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  width: auto;
+  height: auto;
+  right: 10vh;
+
+}
+
+.container {
+  display: block;
+  position: absolute;
+  top: 79vh;
+  left: 45%;
+  width: auto;
+  opacity: 0;
+}
+
+#canvas {
+  display: block;
+  position: absolute;
+  margin: 48px auto;
+  width: 5.5vh;
+  height: 5.5vh;
+}
+
+.label {
+  position: relative;
+
+  top: 68px;
+  left: 60px;
+
+  font-family: "Courier New", Courier, monospace;
+  font-weight:0;
+  font-size:13.5px;
+
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
+  letter-spacing:1px;
+  color:#fafafa;
+  width:100%;
+  opacity:1;
+  margin-top:-8.5%;
+
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 0.7px;
+  /* font-size:16px; */
+  font-weight: 600;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: small-caps;
+  text-transform: none;
+  /* text-shadow: 1px 1px 1px rgba(1,1,1,1); */
+  position: relative;
+  z-index: 99;
+  text-shadow: rgb(55, 71, 79) -1px 1px 0px, rgb(55, 71, 79) 1px 1px 0px, rgb(55, 71, 79) 1px -1px 0px, rgb(55, 71, 79) -1px -1px 0px;
+}
